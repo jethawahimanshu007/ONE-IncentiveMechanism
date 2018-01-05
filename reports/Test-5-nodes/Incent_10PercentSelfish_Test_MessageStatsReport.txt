@@ -1,0 +1,28 @@
+Message stats for scenario Incent_PercentSelfish_Test
+sim_time: 600.0000 minutes
+created: 1220327
+started: 5373
+relayed: 5372
+aborted: 1
+dropped: 1220301
+removed: 0
+delivered: 5372
+delivery_prob: 0.0044
+response_prob: 0.0000
+overhead_ratio: 0.0000
+latency_avg: 73.4968
+latency_med: 31.0000
+hopcount_avg: 1.0000
+hopcount_med: 1
+buffertime_avg: 729.3296
+buffertime_med: 694.0000
+rtt_avg: NaN
+rtt_med: NaN
+New things:
+
+
+NrOfDeliveredToNonSelfish:5372
+Total Messages reduced because of zero incentive:90048
+
+
+
